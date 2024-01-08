@@ -1,3 +1,5 @@
 <?php
 
-echo 'Shubham Jaiswal';
+//object
+$person = new stdClass();
+var_dump($person);
